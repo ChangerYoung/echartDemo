@@ -1,0 +1,510 @@
+{
+    "nodes": [
+    	{
+            "color": "#1984c7",
+            "label": "装备",
+            "attributes": {},
+            "y": 90,
+            "x": 300,
+            "id": "zhuangbei",
+            "size": 40
+        },
+        {
+            "color": "#4f19c7",
+            "label": "发动机",
+            "attributes": {},
+            "y": 100,
+            "x": 400,
+            "id": "fadongji",
+            "size": 100
+        },
+        {
+            "color": "#9f19c7",
+            "label": "雷达",
+            "attributes": {},
+            "y": 200,
+            "x": 300,
+            "id": "leida",
+            "size": 100
+        },
+        {
+            "color": "#9f19c7",
+            "label": "神鹰",
+            "attributes": {},
+            "y": 280,
+            "x": 220,
+            "id": "shenying",
+            "size": 40
+        },
+        {
+            "color": "#9f19c7",
+            "label": "J232H",
+            "attributes": {},
+            "y": 290,
+            "x": 270,
+            "id": "J232H",
+            "size": 40
+        },
+        {
+            "color": "#9f19c7",
+            "label": "245型",
+            "attributes": {},
+            "y": 290,
+            "x": 310,
+            "id": "245xing",
+            "size": 40
+        },
+        {
+            "color": "#9f19c7",
+            "label": "空中霸王",
+            "attributes": {},
+            "y": 290,
+            "x": 340,
+            "id": "kongzhongbawang",
+            "size": 40
+        },
+        {
+            "color": "#9f19c7",
+            "label": "搜索雷达",
+            "attributes": {},
+            "y": 280,
+            "x": 370,
+            "id": "sousuoleida",
+            "size": 40
+        },
+        {
+            "color": "#c71969",
+            "label": "导弹",
+            "attributes": {},
+            "y": 100,
+            "x": 220,
+            "id": "daodan",
+            "size": 100
+        },
+        {
+            "color": "#c74f19",
+            "label": "机型",
+            "attributes": {},
+            "y": 0,
+            "x": 300,
+            "id": "jixing",
+            "size": 100
+        },
+        {
+            "color": "#c74f19",
+            "label": "运输机",
+            "attributes": {},
+            "y": -30,
+            "x": 200,
+            "id": "yunshuji",
+            "size": 60
+        },
+        {
+            "color": "#c74f19",
+            "label": "运5",
+            "attributes": {},
+            "y": -90,
+            "x": 170,
+            "id": "yun5",
+            "size": 40
+        },
+        {
+            "color": "#c74f19",
+            "label": "运7",
+            "attributes": {},
+            "y": -50,
+            "x": 130,
+            "id": "yun7",
+            "size": 40
+        },
+        {
+            "color": "#c74f19",
+            "label": "运8",
+            "attributes": {},
+            "y": -10,
+            "x": 120,
+            "id": "yun8",
+            "size": 40
+        },
+        {
+            "color": "#c74f19",
+            "label": "轰炸机",
+            "attributes": {},
+            "y": -80,
+            "x": 270,
+            "id": "hongzhaji",
+            "size": 60
+        },
+        {
+            "color": "#c74f19",
+            "label": "轰5",
+            "attributes": {},
+            "y": -140,
+            "x": 310,
+            "id": "hong5",
+            "size": 40
+        },
+        {
+            "color": "#c74f19",
+            "label": "轰6",
+            "attributes": {},
+            "y": -130,
+            "x": 240,
+            "id": "hong6",
+            "size": 40
+        },
+        {
+            "color": "#c74f19",
+            "label": "歼轰7",
+            "attributes": {},
+            "y": -110,
+            "x": 200,
+            "id": "jianhong7",
+            "size": 40
+        },
+        {
+            "color": "#c74f19",
+            "label": "战斗机",
+            "attributes": {},
+            "y": -50,
+            "x": 400,
+            "id": "zhandouji",
+            "size": 60
+        },
+        {
+            "color": "#c74f19",
+            "label": "歼7",
+            "attributes": {},
+            "y": -100,
+            "x": 500,
+            "id": "jian7",
+            "size": 40
+        },
+        {
+            "color": "#c74f19",
+            "label": "歼8",
+            "attributes": {},
+            "y": -140,
+            "x": 430,
+            "id": "jian8",
+            "size": 40
+        },
+        {
+            "color": "#c74f19",
+            "label": "歼10",
+            "attributes": {},
+            "y": -140,
+            "x": 370,
+            "id": "jian10",
+            "size": 40
+        },
+        {
+            "color": "#c71969",
+            "label": "地地导弹 ",
+            "attributes": {},
+            "y": 100,
+            "x": 140,
+            "id": "dididaodan",
+            "size": 60
+        },
+        {
+            "color": "#c71969",
+            "label": "PL-2",
+            "attributes": {},
+            "y": 80,
+            "x": 80,
+            "id": "PL-2",
+            "size": 40
+        },
+        {
+            "color": "#c71969",
+            "label": "PL-5",
+            "attributes": {},
+            "y": 110,
+            "x": 70,
+            "id": "PL-5",
+            "size": 40
+        },
+        {
+            "color": "#c71969",
+            "label": "PL-8",
+            "attributes": {},
+            "y": 150,
+            "x": 80,
+            "id": "PL-8",
+            "size": 40
+        },
+        {
+            "color": "#c71969",
+            "label": "地空导弹 ",
+            "attributes": {},
+            "y": 170,
+            "x": 150,
+            "id": "dikongdaodan",
+            "size": 60
+        },
+        {
+            "color": "#c71969",
+            "label": "PL-3",
+            "attributes": {},
+            "y": 220,
+            "x": 90,
+            "id": "PL-3",
+            "size": 40
+        },
+        {
+            "color": "#c71969",
+            "label": "PL-6",
+            "attributes": {},
+            "y": 180,
+            "x": 80,
+            "id": "PL-6",
+            "size": 40
+        },
+        {
+            "color": "#c71969",
+            "label": "PL-9",
+            "attributes": {},
+            "y": 240,
+            "x": 110,
+            "id": "PL-9",
+            "size": 40
+        },
+        {
+            "color": "#4f19c7",
+            "label": "WP-5",
+            "attributes": {},
+            "y": 40,
+            "x": 550,
+            "id": "WP-5",
+            "size": 40
+        },
+        {
+            "color": "#4f19c7",
+            "label": "WP-13",
+            "attributes": {},
+            "y": 100,
+            "x": 560,
+            "id": "WP-13",
+            "size": 40
+        },
+        {
+            "color": "#4f19c7",
+            "label": "WP-7",
+            "attributes": {},
+            "y": 160,
+            "x": 550,
+            "id": "WP-7",
+            "size": 40
+        },
+        {
+            "color": "#4f19c7",
+            "label": "377型",
+            "attributes": {},
+            "y": 200,
+            "x": 520,
+            "id": "377xing",
+            "size": 40
+        }
+    ],
+    "edges": [
+        {
+            "sourceID": "zhuangbei",
+            "attributes": {},
+            "targetID": "fadongji",
+            "size": 1
+        },
+        {
+            "sourceID": "zhuangbei",
+            "attributes": {},
+            "targetID": "daodan",
+            "size": 1
+        },
+        {
+            "sourceID": "zhuangbei",
+            "attributes": {},
+            "targetID": "leida",
+            "size": 1
+        },
+        {
+            "sourceID": "zhuangbei",
+            "attributes": {},
+            "targetID": "jixing",
+            "size": 1
+        },
+        {
+            "sourceID": "jixing",
+            "attributes": {},
+            "targetID": "yunshuji",
+            "size": 1
+        },
+        {
+            "sourceID": "jixing",
+            "attributes": {},
+            "targetID": "hongzhaji",
+            "size": 1
+        },
+        {
+            "sourceID": "jixing",
+            "attributes": {},
+            "targetID": "zhandouji",
+            "size": 1
+        },
+        {
+            "sourceID": "daodan",
+            "attributes": {},
+            "targetID": "dididaodan",
+            "size": 1
+        },
+        {
+            "sourceID": "daodan",
+            "attributes": {},
+            "targetID": "dikongdaodan",
+            "size": 1
+        },
+        {
+            "sourceID": "fadongji",
+            "attributes": {},
+            "targetID": "WP-5",
+            "size": 1
+        },
+        {
+            "sourceID": "fadongji",
+            "attributes": {},
+            "targetID": "WP-7",
+            "size": 1
+        },
+        {
+            "sourceID": "fadongji",
+            "attributes": {},
+            "targetID": "WP-13",
+            "size": 1
+        },
+        {
+            "sourceID": "fadongji",
+            "attributes": {},
+            "targetID": "377xing",
+            "size": 1
+        },
+        {
+            "sourceID": "zhandouji",
+            "attributes": {},
+            "targetID": "jian7",
+            "size": 1
+        },
+        {
+            "sourceID": "zhandouji",
+            "attributes": {},
+            "targetID": "jian8",
+            "size": 1
+        },
+        {
+            "sourceID": "zhandouji",
+            "attributes": {},
+            "targetID": "jian10",
+            "size": 1
+        },
+        {
+            "sourceID": "hongzhaji",
+            "attributes": {},
+            "targetID": "hong5",
+            "size": 1
+        },
+        {
+            "sourceID": "hongzhaji",
+            "attributes": {},
+            "targetID": "hong6",
+            "size": 1
+        },
+        {
+            "sourceID": "hongzhaji",
+            "attributes": {},
+            "targetID": "jianhong7",
+            "size": 1
+        },
+        {
+            "sourceID": "yunshuji",
+            "attributes": {},
+            "targetID": "yun5",
+            "size": 1
+        },
+        {
+            "sourceID": "yunshuji",
+            "attributes": {},
+            "targetID": "yun7",
+            "size": 1
+        },
+        {
+            "sourceID": "yunshuji",
+            "attributes": {},
+            "targetID": "yun8",
+            "size": 1
+        },
+        {
+            "sourceID": "leida",
+            "attributes": {},
+            "targetID": "shenying",
+            "size": 1
+        },
+        {
+            "sourceID": "leida",
+            "attributes": {},
+            "targetID": "J232H",
+            "size": 1
+        },
+        {
+            "sourceID": "leida",
+            "attributes": {},
+            "targetID": "245xing",
+            "size": 1
+        },
+        {
+            "sourceID": "leida",
+            "attributes": {},
+            "targetID": "kongzhongbawang",
+            "size": 1
+        },
+        {
+            "sourceID": "leida",
+            "attributes": {},
+            "targetID": "sousuoleida",
+            "size": 1
+        },
+        {
+            "sourceID": "dididaodan",
+            "attributes": {},
+            "targetID": "PL-2",
+            "size": 1
+        },
+        {
+            "sourceID": "dididaodan",
+            "attributes": {},
+            "targetID": "PL-5",
+            "size": 1
+        },
+        {
+            "sourceID": "dididaodan",
+            "attributes": {},
+            "targetID": "PL-8",
+            "size": 1
+        },
+        {
+            "sourceID": "dikongdaodan",
+            "attributes": {},
+            "targetID": "PL-3",
+            "size": 1
+        },
+        {
+            "sourceID": "dikongdaodan",
+            "attributes": {},
+            "targetID": "PL-6",
+            "size": 1
+        },
+        {
+            "sourceID": "dikongdaodan",
+            "attributes": {},
+            "targetID": "PL-9",
+            "size": 1
+        }
+    ]
+}
